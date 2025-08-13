@@ -21,7 +21,7 @@ public class CarrinhoDeCompras {
         CarrinhoDeCompras i2 = new CarrinhoDeCompras();
         i2.nome = "mouse";
         i2.preco = 299.90;
-        i2.quantidade = 2;
+        i2.quantidade = 3;
 
         List<CarrinhoDeCompras> carrinho = new ArrayList<>();
         carrinho.add(i1);
